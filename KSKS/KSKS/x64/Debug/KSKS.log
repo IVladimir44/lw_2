@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(216,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(219,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(222,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(225,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(228,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(231,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(238,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(238,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\source\repos\KSKS\KSKS\MyForm.h(552,61): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KSKS.vcxproj -> C:\Users\dpole\source\repos\KSKS\x64\Debug\KSKS.exe
